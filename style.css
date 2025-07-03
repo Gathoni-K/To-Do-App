@@ -65,3 +65,13 @@ input{
 button:hover{
     background-color: rgb(37, 41, 255);
 }
+span {
+    background-color: rgb(235, 235, 235);
+    color: rgb(255, 140, 0);
+    padding: 2px 6px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+}
